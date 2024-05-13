@@ -1,0 +1,20 @@
+{
+  "name": "learning-backend-in-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Promisemagoga/Learning-Backend-In-Node.js.git"
+  },
+  "keywords": [],
+  "author": "Promise Tshegofatso Magoga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Promisemagoga/Learning-Backend-In-Node.js/issues"
+  },
+  "homepage": "https://github.com/Promisemagoga/Learning-Backend-In-Node.js#readme"
+}
